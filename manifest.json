@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+
+    "name": "MyFirstExtension",
+    "description": "Only my 1st js-based extension",
+    "version": "1.0"
+}
